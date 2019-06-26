@@ -1,2 +1,1 @@
-# Rocket-League
-Car game
+# Rocket League
